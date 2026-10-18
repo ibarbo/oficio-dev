@@ -24,6 +24,7 @@ Un oficio se aprende haciendo. Aquí no hay teoría de relleno: cada guía termi
 
 | Recurso | Para qué sirve |
 |---|---|
+| [Glosario de Git](git/Glosario_Git.md) | Vocabulario y comandos con sus opciones, para consultar cuando lo necesites |
 | [Guía de Markdown](markdown/Guia_Markdown.md) | Todo lo necesario para escribir un README profesional: títulos, tablas, código, alertas, insignias y una plantilla lista para usar |
 | [Markdown en 1 minuto](markdown/Markdown_en_1_minuto.png) | Lo que escribes y cómo lo muestra GitHub, en una sola imagen |
 
