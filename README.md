@@ -24,7 +24,6 @@ Un oficio se aprende haciendo. Aquí no hay teoría de relleno: cada guía termi
 
 | Recurso | Para qué sirve |
 |---|---|
-| [Glosario de Git](git/Glosario_Git.md) | Vocabulario y comandos con sus opciones, para consultar cuando lo necesites |
 | [Guía de Markdown](markdown/Guia_Markdown.md) | Todo lo necesario para escribir un README profesional: títulos, tablas, código, alertas, insignias y una plantilla lista para usar |
 | [Markdown en 1 minuto](markdown/Markdown_en_1_minuto.png) | Lo que escribes y cómo lo muestra GitHub, en una sola imagen |
 
@@ -32,10 +31,22 @@ Un oficio se aprende haciendo. Aquí no hay teoría de relleno: cada guía termi
 
 | Recurso | Para qué sirve |
 |---|---|
+| [Glosario de Git](git/Glosario_Git.md) | Vocabulario y comandos con sus opciones, para consultar cuando lo necesites |
 | [Las 3 zonas de Git](git/Las_3_zonas_de_Git.png) | Cómo viaja un cambio de tu carpeta al historial |
 | [El ciclo de Git](git/El_ciclo_de_Git.png) | Los pasos que repites con cada cambio, y cómo escribir buenos mensajes de commit |
 | [Cheatsheet de Git](git/Cheatsheet_Git.png) | Los comandos esenciales en una hoja |
 | [Estructura del proyecto](git/Estructura_del_proyecto.png) | Cómo organizar un repositorio: carpetas, `.gitignore` y README |
+
+### 🌳 Ramas
+
+| Recurso | Para qué sirve |
+|---|---|
+| [Guía: Ramas, trabajar sin miedo](ramas/Guia_Ramas.md) | Práctica paso a paso: tu primera rama, dos Sprints por tu cuenta y un conflicto resuelto con calma |
+| [Así trabaja un equipo con ramas](ramas/Equipo_con_ramas.png) | `main`, ramas `feature/` y `hotfix/` en un mismo dibujo |
+| [¿Qué es una rama?](ramas/Que_es_una_rama.png) | Una línea de trabajo aparte que vuelve a `main` con un merge |
+| [Del trabajo a main: el Pull Request](ramas/Flujo_Pull_Request.png) | Issue, rama, push, Pull Request, revisión y merge |
+| [¿Por qué main va protegida?](ramas/Main_protegida.png) | Sin protección y con protección: así trabaja GitHub Flow |
+| [¿Qué es un conflicto?](ramas/Que_es_un_conflicto.png) | Cómo leer las marcas `<<<<<<<` y resolverlo en tres pasos |
 
 <p align="center">
   <img src="git/El_ciclo_de_Git.png" alt="El ciclo de Git" width="720">
